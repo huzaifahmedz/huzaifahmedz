@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-Here is some ideas to get you started
+Here is some ideas to get you started.
 
 # 💫 About Me:
-🔭 I’m currently working on ecommerce website.<br>👯 I’m looking to collaborate on Front-End and Back-End Projects.<br>🌱 I’m currently learning web dev <br>📧 How to reach me: dev.huzaif@gmail.com** <br> 💬 Ask me about technologies and web development<br>⚡ Fun fact :🌐 Full-Stack Adventurer: Jumping between frontend animations and backend APIs like it’s a parkour course.<br> 😃 pronounce : He/Him
+🔭 I’m currently working on ecommerce website.<br>👯 I’m looking to collaborate on Front-End and Back-End Projects.<br>🌱 I’m currently learning web dev. <br>📧 How to reach me: dev.huzaif@gmail.com** <br> 💬 Ask me about technologies and web development.<br>⚡ Fun fact :🌐 Full-Stack Adventurer: Jumping between frontend animations and backend APIs like it’s a parkour course.<br> 😃 pronounce : He/Him
 
 
 
